@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/chikken_in_a_bukket
+lib/chikken_in_a_bukket.rb
+test/test_chikken_in_a_bukket.rb
